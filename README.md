@@ -52,7 +52,9 @@ The project uses WebSocket for communication, and STOMP is used to relay message
 4. **Multimedia Handling**: When sending a file, the system checks the MIME type using Apache Tika to determine if the file is an image or a video, then appropriately handles it.
    
 5. **Disconnect**: When a user disconnects, the system updates their status to offline.
-6. 
+## Demo
+
+[Click here to view the live demo](https://we.tl/t-rXdZmBAOds)
 ## Screenshots
 
 ### Chat Interface
