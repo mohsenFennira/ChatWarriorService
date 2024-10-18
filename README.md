@@ -52,7 +52,18 @@ The project uses WebSocket for communication, and STOMP is used to relay message
 4. **Multimedia Handling**: When sending a file, the system checks the MIME type using Apache Tika to determine if the file is an image or a video, then appropriately handles it.
    
 5. **Disconnect**: When a user disconnects, the system updates their status to offline.
+6. 
+## Screenshots
 
+### Chat Interface
+This is the main chat interface, where users can send and receive messages, including media like videos. The left side displays the list of online users.
+
+![Chat Interface](Capture d’écran 2024-10-18 061030.png)
+
+### Login Screen
+This is the login screen where users can enter their nickname and real name to enter the chatroom.
+
+![Login Screen](Capture d’écran 2024-10-18 061103.png)
 ## Installation and Setup
 
 ### Prerequisites
